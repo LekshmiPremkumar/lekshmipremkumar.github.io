@@ -261,18 +261,9 @@ page[size="A3"] {
   padding-left: 0.5cm;
   list-style-type: disc;
 }
-/* Links in Projects section */
-.PROJECTS a {
-  text-decoration: none;
-}
-
 .PROJECTS a:hover {
-  text-decoration: underline;
-  color: #0056b3;
+  text-decoration: underline !important;
   cursor: pointer;
-}
-.rightPanel a:hover {
-  text-decoration: underline;
 }
 /*End Layout*/
 
